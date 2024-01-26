@@ -27,6 +27,6 @@ alchemy-mock==0.4.3
 # Codestyle
 pycodestyle==2.6.0
 autopep8==1.5.4
-cryptography[ssh]==3.3.2
+cryptography==42.0.0
 sqlalchemy_json==0.4.0
 emoji==1.6.1
